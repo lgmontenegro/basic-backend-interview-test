@@ -28,7 +28,7 @@ Dear candidate, please follow this readme and solve all questions.
 
 2. Use the api.nasa.gov
   - the API-KEY is `N7LkblDsc5aen05FJqBQ8wU4qSdmsftwJagVK7UD`
-  - documentation: https://api.nasa.gov/neo/?api_key=N7LkblDsc5aen05FJqBQ8wU4qSdmsftwJagVK7UD
+  - documentation: https://api.nasa.gov/api.html#neows-feed
   
 3. Write a command
   - to request the data from the last 3 days from nasa api
